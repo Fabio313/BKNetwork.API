@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BKNetwork.API", "BKNetwork.API\BKNetwork.API.csproj", "{03080EC8-811E-4F6B-941D-3101A91B025E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{B6399844-E9C9-458B-9F71-991DF280842E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{4B18BA9F-48BE-4C7F-8099-F31BCBD064E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infrastructure", "3 - Infrastructure", "{22C72876-9B68-4C89-9D4E-E28FFE6CD289}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Tests", "4 - Tests", "{0A4B2533-C17C-4B34-B80D-3CE97CB92847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03080EC8-811E-4F6B-941D-3101A91B025E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03080EC8-811E-4F6B-941D-3101A91B025E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03080EC8-811E-4F6B-941D-3101A91B025E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03080EC8-811E-4F6B-941D-3101A91B025E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{03080EC8-811E-4F6B-941D-3101A91B025E} = {B6399844-E9C9-458B-9F71-991DF280842E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD956EB-F96B-45C3-A3FF-79598E8A3C90}
+	EndGlobalSection
+EndGlobal
